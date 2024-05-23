@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-mubasher-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="syed-mubasher-hassan" /> </p>
 
-- 🌱 I’m currently learning **Computer Vision,NLP**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 💬 Ask me about **Python,Numpy,Pandas,Matplotlib,Seaborn,Sklearn,OpenCv,Tensorflow,Pytorch**
 
